@@ -3,8 +3,8 @@
 ## 1. Datos generales
 
 - **Nombre completo:** José Humberto Zúniga Aguilar
-- **Carné:** 04234017-9
-- **Correo institucional:**  humberto.zng@gmail.com
+- **Carné:** N/A
+- **Correo institucional:**  N/A
 - **Asignatura:** Lenguajes de Programación con Aspectos de Seguridad
 - **Fecha:** 08 de Noviembre de 2026
 
