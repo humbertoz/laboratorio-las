@@ -54,3 +54,14 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+## 5. Resultados de Métricas (MTTD y MTTR)
+
+| Prueba | MTTD (segundos) | MTTR (segundos) |
+| :--- | :--- | :--- |
+| **1** | 518.0 | 1356.0 |
+| **2** | 518.0 | 1523.0 |
+| **3** | 518.0 | 1643.0 |
+| **Promedio** | **518.0** | **1507.33** |
+
+* **MTTD promedio:** 518.0 segundos
+* **MTTR promedio:** 1507.33 segundos
